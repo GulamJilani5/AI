@@ -25,3 +25,8 @@
 
 - Computers can't understand text directly.
 - Embeddings allow models to perform mathematical operations (like similarity, attention) on meaning.
+
+### ➡️ Two URLs required
+
+- Chat based URL
+- Embedding base url
