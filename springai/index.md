@@ -28,6 +28,8 @@
 
 # Prompt templates, chat clients, structured responses
 
+# Grounding
+
 # Function calling (tool invocation)
 
 # MCP
