@@ -4,6 +4,19 @@
 
 - example - geminir or openai etc
 
+# Core Packages in spring AI
+
+```java
+
+// These are the primary packages you'll import from:
+org.springframework.ai.chat.client (core ChatClient and builder)
+org.springframework.ai.chat.prompt (prompts and specs)
+org.springframework.ai.chat.model (responses and options)
+org.springframework.ai.chat.advisor (advisors for customization)
+org.springframework.ai.chat.memory (optional: conversation memory)
+
+```
+
 # Advisors
 
 # Vector database
